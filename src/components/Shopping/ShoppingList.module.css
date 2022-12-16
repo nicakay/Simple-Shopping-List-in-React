@@ -1,0 +1,41 @@
+.ulDiv {
+  position: inherit;
+  color: #53427a;
+  border: 5px solid #4dc1de;
+  border-radius: 20px;
+  background-color: #cef0ff;
+  width: 26rem;
+  padding: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -0.5em;
+  box-shadow: rgba(10, 59, 138, 0.5) 0px 10px 18px 0px;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+li {
+  margin-bottom: 5px;
+  background-image: linear-gradient(to left, rgba(255, 0, 0, 0), #fff);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding-left: 4px;
+  display: block;
+}
+
+.delete {
+  color: #006781;
+  display: inline;
+  float: right;
+  cursor: pointer;
+}
+
+.delete:hover {
+  color: #ff6d53;
+}
+
+.delete:active {
+  color: #54fff1;
+}

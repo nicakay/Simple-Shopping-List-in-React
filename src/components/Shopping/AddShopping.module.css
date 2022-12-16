@@ -1,0 +1,43 @@
+form {
+  display: block;
+  color: rgb(107, 67, 101);
+  background-color: rgb(121, 157, 158);
+  background-image: linear-gradient(#0099c0, #cef0ff);
+  border: 3px solid rgb(238, 239, 255);
+  padding: 2rem;
+  border-radius: 8px;
+  z-index: -10;
+  width: auto;
+}
+
+.select {
+  margin-top: 1rem;
+  display: inline;
+  float: right;
+}
+
+.select:hover {
+  background-color: rgba(255, 255, 255, 0.35);
+}
+
+#product {
+  color: #1b4144;
+}
+
+.inputP {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.inputP:hover {
+  background-color: rgba(255, 255, 255, 0.35);
+}
+
+.inputQ {
+  width: 5rem;
+  margin-right: 1rem;
+}
+
+.inputQ:hover {
+  background-color: rgba(255, 255, 255, 0.35);
+}

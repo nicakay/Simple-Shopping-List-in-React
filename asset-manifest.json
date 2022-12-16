@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple-Shopping-List-in-React/static/css/main.d581e97e.css",
+    "main.js": "/Simple-Shopping-List-in-React/static/js/main.74602562.js",
+    "index.html": "/Simple-Shopping-List-in-React/index.html",
+    "main.d581e97e.css.map": "/Simple-Shopping-List-in-React/static/css/main.d581e97e.css.map",
+    "main.74602562.js.map": "/Simple-Shopping-List-in-React/static/js/main.74602562.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d581e97e.css",
+    "static/js/main.74602562.js"
+  ]
+}
